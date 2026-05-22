@@ -1,0 +1,5 @@
+<Solution>
+  <Folder Name="/src/">
+    <Project Path="src/SharpPyxis.LocalServices.Api/SharpPyxis.LocalServices.Api.csproj" />
+  </Folder>
+</Solution>
